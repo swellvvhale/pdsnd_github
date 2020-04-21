@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+April 20, 2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project uses bike share data from many major us cities in the United States and explores bike share usage pattenrs
 
 ### Files used
-Include the files used
+bikeshare.py: contains python code used for analysis
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+References use include the following.
+https://pandas.pydata.org/docs/reference/index.html
+
+https://stackoverflow.com/questions/24870306/how-to-check-if-a-column-exists-in-pandas
 
