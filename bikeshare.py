@@ -206,10 +206,14 @@ def raw_data(df):
 
 
 def main():
+
+    # Loops until user quits
     while True:
+        # Get input from users and create a DataFrame
         city, month, day = get_filters()
         df = load_data(city, month, day)
         
+        # Display information to the user
         time_stats(df)
         station_stats(df)
         trip_duration_stats(df)
